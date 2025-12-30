@@ -1,0 +1,528 @@
+Month,Day of the Week,sku,color,size,unit_price,quantity,revenue
+6,2,708,Dark Blue,2XL,298,1,298
+6,2,89,Dark Blue,2XL,258,1,258
+6,4,bobo,Cream,One Size,228,1,228
+6,4,799,Dark Blue,XL,264,1,264
+6,5,799,Dark Blue,M,264,1,264
+6,5,799,Dark Blue,XL,264,1,264
+6,5,799,Dark Blue,XL,264,1,264
+6,5,708,Dark Blue,3XL,278,1,278
+6,5,708,Dark Blue,XL,278,1,278
+6,5,239,Black,Unknown,258,1,258
+6,6,708,Dark Blue,XL,278,1,278
+6,6,708,Dark Blue,3XL,278,1,278
+6,6,708,Dark Blue,3XL,278,1,278
+6,0,799,Dark Blue,XL,264,1,264
+6,1,799,Dark Blue,M,264,1,264
+6,1,bobo,Navy Blue,One Size,228,1,228
+6,1,bobo,Blue,One Size,228,1,228
+6,1,bobo,Light Gray,One Size,228,1,228
+6,1,708,Dark Blue,XL,278,1,278
+6,2,708,Dark Blue,2XL,278,1,278
+6,2,77,B,Unknown,258,1,258
+6,2,77,C,Unknown,258,1,258
+6,2,77,D,Unknown,258,1,258
+6,2,77,E,Unknown,258,1,258
+6,2,77,A,Unknown,288,1,288
+6,2,799,Dark Blue,XL,264,1,264
+6,2,799,Dark Blue,XL,264,1,264
+6,2,799,Dark Blue,XL,264,1,264
+6,2,799,Dark Blue,XL,264,1,264
+6,3,799,Dark Blue,L,264,1,264
+6,3,708,Dark Blue,3XL,278,1,278
+6,4,708,Dark Blue,3XL,278,1,278
+6,5,708,Dark Blue,3XL,278,1,278
+6,5,708,Dark Blue,XL,278,1,278
+6,5,708,Dark Blue,3XL,278,1,278
+6,5,897,Mid Wash,L,268,1,268
+6,5,708,Dark Blue,XL,278,1,278
+6,6,708,Dark Blue,2XL,278,1,278
+6,6,799,Dark Blue,XL,264,1,264
+6,3,799,Dark Blue,XL,288,1,288
+6,0,708,Dark Blue,3XL,278,1,278
+6,1,708,Dark Blue,XL,278,1,278
+6,1,708,Dark Blue,XL,278,1,278
+6,1,799,Dark Blue,L,264,1,264
+6,2,9699,Light Blue,One Size,288,1,288
+6,2,799,Dark Blue,XL,264,1,264
+6,3,708,Dark Blue,XL,278,1,278
+6,3,708,Dark Blue,XL,278,1,278
+6,3,127,Dark Wash,One Size,238,1,238
+6,4,708,Dark Blue,XL,278,1,278
+6,4,708,Dark Blue,3XL,278,1,278
+6,4,708,Dark Blue,3XL,278,1,278
+6,4,897,Dark Wash,XL,268,1,268
+6,4,89,Dark Blue,3XL,258,1,258
+6,5,708,Dark Blue,3XL,298,1,298
+6,5,799,Dark Blue,M,288,1,288
+6,6,9699,Light Blue,One Size,288,1,288
+6,6,1719,Thin Blue,One Size,268,1,268
+6,6,127,Mid Wash,One Size,238,1,238
+6,6,799,Dark Blue,XL,288,1,288
+6,0,799,Dark Blue,M,288,1,288
+6,1,799,Dark Blue,M,288,1,288
+6,1,708,Dark Blue,2XL,298,1,298
+6,4,799,Dark Blue,L,288,1,288
+6,4,708,Dark Blue,2XL,278,1,278
+6,4,9699,Dark Blue,One Size,288,1,288
+6,3,439,Rust,Unknown,258,1,258
+6,6,799,Dark Blue,L,288,1,288
+6,6,77,B,Unknown,258,1,258
+6,0,3799,Grey Wash,XL,246,1,246
+6,0,799,Dark Blue,XL,264,1,264
+6,0,708,Dark Blue,3XL,278,1,278
+6,0,708,Dark Blue,3XL,278,1,278
+6,0,708,Dark Blue,XL,278,1,278
+6,0,799,Dark Blue,XL,264,1,264
+6,0,708,Dark Blue,2XL,278,1,278
+6,0,708,Dark Blue,3XL,278,1,278
+6,0,708,Dark Blue,2XL,278,1,278
+6,0,897,Mid Wash,L,268,1,268
+6,0,708,Dark Blue,3XL,278,1,278
+6,0,1719,Thin Black,One Size,268,1,268
+6,0,77,B,Unknown,258,1,258
+6,0,77,D,Unknown,258,1,258
+6,0,77,A,Unknown,288,1,288
+6,0,708,Dark Blue,XL,278,1,278
+6,2,799,Dark Blue,L,264,1,264
+6,2,708,Dark Blue,2XL,278,1,278
+6,2,799,Dark Blue,XL,264,1,264
+6,3,229,922 Black,XL,207,1,207
+6,3,229,922 Army green,XL,207,1,207
+6,3,89,Dark Blue,3XL,258,1,258
+6,3,2499,Mid Wash,XL,249,1,249
+6,3,799,Dark Blue,XL,264,1,264
+6,3,799,Dark Blue,M,264,1,264
+7,4,799,Dark Blue,XL,288,1,288
+7,6,89,Dark Blue,2XL,258,1,258
+7,6,1719,Thin Blue,One Size,268,1,268
+7,6,708,Dark Blue,XL,298,1,298
+7,6,799,Dark Blue,XL,288,1,288
+7,6,799,Dark Blue,XL,288,1,288
+7,6,799,Dark Blue,L,288,1,288
+7,0,799,Dark Blue,L,288,1,288
+7,0,799,Dark Blue,XL,288,1,288
+7,0,799,Dark Blue,M,288,2,576
+7,1,799,Dark Blue,M,288,1,288
+7,1,799,Dark Blue,XL,288,1,288
+7,1,799,Dark Blue,M,288,1,288
+7,2,799,Dark Blue,L,288,1,288
+7,3,708,Dark Blue,XL,298,1,298
+7,3,799,Dark Blue,M,288,1,288
+7,3,799,Dark Blue,L,288,1,288
+7,3,799,Dark Blue,XL,288,1,288
+7,4,799,Dark Blue,M,288,1,288
+7,4,79,Light Blue,4XL,315,1,315
+7,4,708,Dark Blue,2XL,298,1,298
+7,4,1719,Gray Stripes,One Size,255,1,255
+7,4,799,Dark Blue,XL,288,1,288
+7,5,799,Dark Blue,XL,288,1,288
+7,5,799,Dark Blue,XL,288,1,288
+7,5,799,Dark Blue,XL,288,1,288
+7,5,799,Dark Blue,XL,288,1,288
+7,6,708,Dark Blue,2XL,298,1,298
+7,6,799,Dark Blue,XL,288,1,288
+7,0,799,Dark Blue,M,288,1,288
+7,0,799,Dark Blue,M,288,1,288
+7,0,708,Dark Blue,XL,298,1,298
+7,0,799,Dark Blue,XL,288,1,288
+7,0,799,Dark Blue,M,288,1,288
+7,1,799,Dark Blue,XL,288,1,288
+7,1,799,Dark Blue,M,288,1,288
+7,1,799,Dark Blue,XL,288,1,288
+7,5,29,920 Navy blue,S,227,1,227
+7,5,799,Dark Blue,M,288,1,288
+7,5,708,Dark Blue,2XL,298,1,298
+7,5,799,Dark Blue,XL,288,1,288
+7,5,708,Dark Blue,3XL,298,1,298
+7,2,799,Dark Blue,XL,288,1,288
+7,3,77,C,Unknown,239,1,239
+7,4,3799,Grey Wash,XL,268,1,268
+7,4,799,Dark Blue,L,266,1,266
+7,4,799,Dark Blue,L,266,1,266
+7,4,799,Dark Blue,L,266,1,266
+7,5,799,Dark Blue,XL,266,1,266
+7,5,799,Dark Blue,XL,266,1,266
+7,5,2499,Mid Wash,XL,232,1,232
+7,5,799,Dark Blue,L,266,1,266
+7,5,2499,Mid Wash,M,232,1,232
+7,6,708,Dark Blue,2XL,298,1,298
+7,6,799,Dark Blue,M,266,1,266
+7,6,799,Dark Blue,L,266,1,266
+7,0,799,Dark Blue,M,266,1,266
+7,0,127,Light Wash,One Size,238,1,238
+7,1,799,Dark Blue,M,266,1,266
+7,1,1719,Blue Stripes,One Size,248,1,248
+7,1,799,Dark Blue,L,266,1,266
+7,1,708,Dark Blue,XL,298,1,298
+7,1,799,Dark Blue,XL,266,1,266
+7,2,9699,Light Blue,One Size,288,1,288
+7,2,799,Dark Blue,XL,266,1,266
+7,2,799,Dark Blue,XL,266,1,266
+7,2,799,Dark Blue,L,266,1,266
+7,2,799,Dark Blue,L,266,1,266
+7,2,799,Dark Blue,XL,266,1,266
+7,3,799,Dark Blue,L,266,1,266
+7,4,799,Dark Blue,M,266,1,266
+7,4,708,Dark Blue,2XL,298,1,298
+7,4,799,Dark Blue,M,266,1,266
+7,6,708,Dark Blue,XL,298,1,298
+7,6,2499,Dark Wash,M,249,1,249
+7,6,799,Dark Blue,M,288,1,288
+7,6,1499,Light Blue,XL,287,1,287
+7,6,799,Dark Blue,XL,288,1,288
+7,5,799,Dark Blue,XL,266,1,266
+7,5,708,Dark Blue,3XL,298,1,298
+7,5,799,Dark Blue,L,266,1,266
+7,5,799,Dark Blue,XL,266,1,266
+7,5,799,Dark Blue,XL,266,1,266
+7,5,799,Dark Blue,L,266,1,266
+7,5,799,Dark Blue,XL,266,1,266
+7,5,799,Dark Blue,XL,266,1,266
+7,6,708,Dark Blue,3XL,298,1,298
+7,6,708,Dark Blue,3XL,298,1,298
+7,6,628,Blue,XL,268,1,268
+7,6,799,Dark Blue,XL,266,1,266
+7,6,61399,Mid Wash,M,278,1,278
+7,6,799,Dark Blue,L,266,1,266
+7,6,1719,Black Stripes,One Size,248,1,248
+7,1,799,Dark Blue,M,288,1,288
+7,1,799,Dark Blue,M,288,1,288
+7,2,9699,Light Blue,One Size,288,1,288
+7,2,9699,Black,One Size,288,2,576
+7,3,9699,Light Blue,One Size,288,1,288
+7,3,799,Dark Blue,XL,269,1,269
+7,3,77,B,Unknown,239,1,239
+7,3,799,Dark Blue,XL,269,1,269
+7,3,799,Dark Blue,L,269,1,269
+7,3,799,Dark Blue,XL,269,1,269
+7,3,799,Dark Blue,L,269,1,269
+7,3,799,Dark Blue,L,269,1,269
+7,3,708,Dark Blue,2XL,296,1,296
+7,3,708,Dark Blue,3XL,296,1,296
+7,3,799,Dark Blue,L,269,1,269
+7,4,9699,Black,One Size,288,1,288
+7,4,799,Dark Blue,XL,269,1,269
+7,5,708,Dark Blue,XL,296,1,296
+7,5,799,Dark Blue,L,269,1,269
+7,5,77,A,Unknown,239,1,239
+7,5,708,Dark Blue,2XL,296,1,296
+8,0,799,Dark Blue,L,266,1,266
+8,0,799,Dark Blue,XL,266,1,266
+8,2,799,Dark Blue,M,266,1,266
+8,2,9699,Light Blue,One Size,288,1,288
+8,2,3799,Grey Wash,XL,268,1,268
+8,2,799,Dark Blue,XL,266,1,266
+8,3,799,Dark Blue,L,266,1,266
+8,3,799,Dark Blue,XL,266,1,266
+8,4,799,Dark Blue,L,266,1,266
+8,4,799,Dark Blue,L,266,1,266
+8,4,799,Dark Blue,M,266,1,266
+8,4,799,Dark Blue,M,266,1,266
+8,5,799,Dark Blue,M,266,1,266
+8,5,799,Dark Blue,XL,266,1,266
+8,5,799,Dark Blue,XL,266,1,266
+8,6,799,Dark Blue,L,266,1,266
+8,6,799,Dark Blue,L,266,1,266
+8,6,799,Dark Blue,M,266,1,266
+8,6,799,Dark Blue,L,266,1,266
+8,6,799,Dark Blue,M,266,1,266
+8,6,89,Light Blue,XL,258,1,258
+8,0,799,Dark Blue,XL,266,1,266
+8,0,799,Dark Blue,XL,266,1,266
+8,0,799,Dark Blue,L,266,1,266
+8,0,799,Dark Blue,XL,266,1,266
+8,0,77,C,Unknown,239,1,239
+8,0,239,Green,Unknown,245,1,245
+8,0,239,White,Unknown,245,1,245
+8,0,239,Mustard,Unknown,245,1,245
+8,0,239,Rust,Unknown,245,1,245
+8,0,339,Brown,Unknown,254,1,254
+8,0,339,Green,Unknown,254,1,254
+8,0,708,Dark Blue,3XL,277,1,277
+8,0,799,Dark Blue,L,266,1,266
+8,0,799,Dark Blue,XL,266,1,266
+8,0,799,Dark Blue,XL,266,1,266
+8,1,799,Dark Blue,M,266,1,266
+8,1,799,Dark Blue,XL,266,1,266
+8,1,799,Dark Blue,L,266,1,266
+8,1,79,Light Blue,L,315,1,315
+8,1,799,Dark Blue,L,266,1,266
+8,1,799,Dark Blue,L,266,1,266
+8,1,799,Dark Blue,M,266,1,266
+8,2,799,Dark Blue,XL,266,1,266
+8,2,61399,Mid Wash,XL,278,1,278
+8,2,799,Dark Blue,XL,266,1,266
+8,2,89,Light Blue,3XL,258,1,258
+8,2,799,Dark Blue,L,266,1,266
+8,2,799,Dark Blue,M,266,1,266
+8,2,799,Dark Blue,XL,266,1,266
+8,2,89,Dark Blue,2XL,258,1,258
+8,3,799,Dark Blue,XL,288,1,288
+8,3,799,Dark Blue,M,288,1,288
+8,3,799,Dark Blue,M,288,1,288
+8,4,bobo,Matcha,One Size,228,1,228
+8,4,799,Dark Blue,XL,288,1,288
+8,4,799,Dark Blue,L,288,1,288
+8,5,799,Dark Blue,XL,288,1,288
+8,5,708,Dark Blue,2XL,298,1,298
+8,5,799,Dark Blue,XL,288,1,288
+8,5,3799,Grey Wash,XL,268,1,268
+8,0,799,Dark Blue,M,288,1,288
+8,0,218,Black,XL,318,1,318
+8,0,1499,Dark Blue,XL,287,1,287
+8,0,799,Dark Blue,M,288,1,288
+8,1,799,Dark Blue,XL,288,1,288
+8,1,89,Dark Blue,2XL,258,1,258
+8,1,799,Dark Blue,XL,288,1,288
+8,1,708,Dark Blue,2XL,298,1,298
+8,2,799,Dark Blue,XL,288,1,288
+8,2,799,Dark Blue,L,288,1,288
+8,2,799,Dark Blue,XL,288,1,288
+8,3,799,Dark Blue,XL,288,2,576
+8,3,799,Dark Blue,M,288,1,288
+8,3,239,Gray,Unknown,278,1,278
+8,4,799,Dark Blue,L,269,1,269
+8,4,799,Dark Blue,L,269,1,269
+8,4,799,Dark Blue,L,269,1,269
+8,4,799,Dark Blue,M,269,1,269
+8,4,799,Dark Blue,XL,269,1,269
+8,4,8499,Light Blue,M,238,1,238
+8,4,799,Dark Blue,M,269,1,269
+8,5,799,Dark Blue,M,288,1,288
+8,5,3799,Grey Wash,XL,268,1,268
+8,5,799,Dark Blue,L,288,1,288
+8,5,89,Light Blue,2XL,258,1,258
+8,6,708,Dark Blue,3XL,298,1,298
+8,6,799,Dark Blue,XL,288,1,288
+8,6,9699,Black,One Size,288,1,288
+8,6,708,Dark Blue,XL,298,1,298
+8,6,799,Dark Blue,M,288,1,288
+8,6,799,Dark Blue,XL,288,1,288
+8,0,799,Dark Blue,XL,288,1,288
+8,0,708,Dark Blue,2XL,298,1,298
+8,0,708,Dark Blue,3XL,298,1,298
+8,0,9699,Light Blue,One Size,288,1,288
+8,0,9699,Dark Blue,One Size,288,1,288
+8,2,3799,Grey Wash,M,268,1,268
+8,2,799,Dark Blue,L,266,1,266
+8,2,799,Dark Blue,L,266,1,266
+8,2,bobo,Navy Blue,One Size,191,1,191
+8,2,708,Dark Blue,XL,298,1,298
+8,2,799,Dark Blue,XL,266,1,266
+8,1,799,Dark Blue,M,278,1,278
+8,1,799,Dark Blue,XL,278,1,278
+8,1,799,Dark Blue,L,278,1,278
+8,1,799,Dark Blue,L,278,1,278
+8,1,3081,Midnight Blue,One SIze,198,1,198
+8,1,89,Dark Blue,3XL,245,1,245
+8,1,799,Dark Blue,XL,278,1,278
+8,1,799,Dark Blue,XL,278,1,278
+8,2,799,Dark Blue,XL,278,1,278
+8,2,799,Dark Blue,M,278,1,278
+8,2,799,Dark Blue,XL,278,1,278
+8,2,79,Light Blue,L,297,1,297
+8,2,708,Dark Blue,3XL,298,1,298
+8,2,708,Dark Blue,2XL,298,1,298
+8,3,77,B,Unknown,239,1,239
+8,3,77,C,Unknown,239,1,239
+8,3,bobo,Maroon,One Size,191,1,191
+8,3,bobo,Blue,One Size,191,1,191
+8,4,799,Dark Blue,L,266,1,266
+8,4,708,Dark Blue,3XL,298,1,298
+8,4,708,Dark Blue,4XL,899,1,899
+8,5,539,Black,One Size,268,1,268
+8,5,8499,Light Blue,M,223,1,223
+8,5,799,Dark Blue,M,266,1,266
+8,5,339,Navy Blue,Unknown,288,1,288
+8,5,339,Mocha,Unknown,288,1,288
+8,5,799,Dark Blue,XL,266,1,266
+8,5,708,Dark Blue,2XL,298,1,298
+8,6,799,Dark Blue,XL,266,1,266
+8,6,1719,Thin Blue,One Size,249,1,249
+8,6,1719,Blue Stripes,One Size,248,1,248
+8,0,708,Dark Blue,2XL,298,1,298
+8,0,bobo,Cream,One Size,191,2,382
+8,0,bobo,Navy Blue,One Size,191,1,191
+8,0,bobo,Blue,One Size,191,1,191
+8,0,77,B,Unknown,239,1,239
+8,0,239,Navy Blue,Unknown,239,1,239
+8,0,239,Brown,Unknown,239,1,239
+8,0,239,Skintone,Unknown,278,1,278
+8,0,799,Dark Blue,M,266,1,266
+8,0,799,Dark Blue,M,266,1,266
+8,0,799,Dark Blue,L,266,1,266
+8,0,799,Dark Blue,L,266,1,266
+8,0,799,Dark Blue,M,266,1,266
+8,0,708,Dark Blue,3XL,298,1,298
+8,0,708,Dark Blue,3XL,298,1,298
+8,0,799,Dark Blue,L,266,1,266
+8,1,799,Dark Blue,XL,266,1,266
+8,1,799,Dark Blue,L,266,1,266
+8,1,218,Black,M,296,1,296
+8,1,799,Dark Blue,XL,266,1,266
+9,3,799,Dark Blue,L,288,1,288
+9,3,799,Dark Blue,XL,288,1,288
+9,5,799,Dark Blue,M,265,1,265
+9,5,708,Dark Blue,4XL,278,1,278
+9,5,708,Dark Blue,2XL,278,1,278
+9,5,708,Dark Blue,4XL,278,1,278
+9,5,799,Dark Blue,XL,265,1,265
+9,5,239,Navy Blue,Unknown,278,1,278
+9,5,708,Dark Blue,3XL,278,1,278
+9,5,799,Dark Blue,XL,265,1,265
+9,5,799,Dark Blue,XL,265,2,530
+9,5,218,Black,XL,318,1,318
+9,5,708,Dark Blue,4XL,278,1,278
+9,5,799,Dark Blue,XL,265,1,265
+9,6,708,Dark Blue,3XL,278,1,278
+9,6,799,Dark Blue,XL,265,1,265
+9,6,799,Dark Blue,M,265,1,265
+9,6,61399,Dark Wash,M,278,1,278
+9,6,799,Dark Blue,M,265,1,265
+9,6,61399,Dark Wash,M,278,1,278
+9,6,799,Dark Blue,M,265,1,265
+9,0,708,Dark Blue,2XL,287,1,287
+9,0,799,Dark Blue,XL,275,1,275
+9,0,799,Dark Blue,M,275,1,275
+9,0,708,Dark Blue,2XL,287,1,287
+9,1,799,Dark Blue,L,275,1,275
+9,2,799,Dark Blue,XL,275,1,275
+9,2,708,Dark Blue,XL,287,1,287
+9,2,3081,Brown,One SIze,198,1,198
+9,2,3081,Light Blue,One SIze,198,1,198
+9,2,3081,Cornflower Blue,One SIze,198,1,198
+9,2,3081,Midnight Blue,One SIze,198,1,198
+9,2,799,Dark Blue,L,275,1,275
+9,3,799,Dark Blue,L,269,1,269
+9,3,799,Dark Blue,XL,269,1,269
+9,3,799,Dark Blue,XL,269,1,269
+9,3,799,Dark Blue,L,269,1,269
+9,3,799,Dark Blue,M,269,1,269
+9,4,799,Dark Blue,XL,288,1,288
+9,4,799,Dark Blue,M,288,1,288
+9,4,799,Dark Blue,M,288,1,288
+9,4,799,Dark Blue,L,288,1,288
+9,5,799,Dark Blue,L,288,1,288
+9,5,799,Dark Blue,L,288,1,288
+9,5,799,Dark Blue,XL,288,1,288
+9,5,239,Rust,Unknown,278,1,278
+9,5,89,Light Blue,3XL,258,1,258
+9,5,799,Dark Blue,XL,288,1,288
+9,5,799,Dark Blue,M,288,1,288
+9,6,708,Dark Blue,XL,298,1,298
+9,6,708,Dark Blue,2XL,298,1,298
+9,6,799,Dark Blue,XL,288,1,288
+9,6,239,Yellow,Unknown,278,1,278
+9,6,bobo,Pink,One Size,228,1,228
+9,6,799,Dark Blue,L,288,1,288
+9,0,799,Dark Blue,M,288,1,288
+9,0,799,Dark Blue,L,288,2,576
+9,0,799,Dark Blue,L,288,1,288
+9,0,799,Dark Blue,XL,288,1,288
+9,0,799,Dark Blue,L,288,1,288
+9,0,799,Dark Blue,XL,288,1,288
+9,4,708,Dark Blue,2XL,298,1,298
+9,4,708,Dark Blue,2XL,298,1,298
+9,4,799,Dark Blue,M,288,1,288
+9,4,708,Dark Blue,2XL,298,1,298
+9,4,799,Dark Blue,XL,288,1,288
+9,1,bobo,Red Orange,One Size,228,1,228
+9,1,bobo,Matcha,One Size,228,1,228
+9,1,799,Dark Blue,L,288,1,288
+9,1,708,Dark Blue,2XL,298,1,298
+9,2,799,Dark Blue,L,288,1,288
+9,2,799,Dark Blue,XL,288,1,288
+9,2,799,Dark Blue,M,288,1,288
+9,2,799,Dark Blue,M,288,1,288
+9,2,799,Dark Blue,M,288,1,288
+9,2,708,Dark Blue,2XL,298,1,298
+9,3,799,Dark Blue,L,275,1,275
+9,3,799,Dark Blue,XL,275,1,275
+9,3,799,Dark Blue,XL,275,1,275
+9,4,799,Dark Blue,M,275,1,275
+9,4,799,Dark Blue,L,275,1,275
+9,5,239,Gray,Unknown,259,1,259
+9,5,708,Dark Blue,2XL,287,1,287
+9,6,89,Dark Blue,3XL,258,1,258
+9,6,799,Dark Blue,XL,278,1,278
+9,0,799,Dark Blue,L,288,1,288
+9,0,89,Dark Blue,XL,258,1,258
+9,0,799,Dark Blue,XL,288,1,288
+9,1,799,Dark Blue,M,288,1,288
+9,1,708,Dark Blue,2XL,298,1,298
+9,1,799,Dark Blue,M,288,1,288
+9,2,708,Dark Blue,2XL,298,1,298
+9,2,708,Dark Blue,4XL,286,1,286
+9,2,708,Dark Blue,2XL,286,1,286
+9,3,799,Dark Blue,XL,288,1,288
+9,3,799,Dark Blue,XL,288,1,288
+9,3,239,Gray,Unknown,278,1,278
+9,5,708,Dark Blue,2XL,298,1,298
+9,5,799,Dark Blue,XL,288,1,288
+9,5,9699,Dark Blue,One Size,288,1,288
+9,5,218,Black,M,318,1,318
+9,5,239,Navy Blue,Unknown,278,1,278
+9,4,799,Dark Blue,XL,278,1,278
+9,4,799,Dark Blue,XL,278,1,278
+9,4,bobo,White,One Size,206,1,206
+9,4,799,Dark Blue,M,278,1,278
+9,4,799,Dark Blue,L,278,1,278
+9,4,799,Dark Blue,M,278,1,278
+9,6,799,Dark Blue,L,288,1,288
+9,6,799,Dark Blue,M,288,1,288
+9,6,79,Light Blue,M,315,1,315
+9,6,79,Light Blue,L,315,1,315
+9,6,79,Light Blue,XL,315,1,315
+9,6,79,Light Blue,2XL,315,1,315
+9,6,79,Light Blue,3XL,315,1,315
+9,6,79,Light Blue,4XL,315,1,315
+9,6,218,Black,M,318,1,318
+9,6,218,Black,L,318,1,318
+9,6,218,Black,XL,318,1,318
+9,6,3799,Grey Wash,XL,268,1,268
+9,6,3799,Grey Wash,M,268,1,268
+9,6,3799,Grey Wash,L,268,1,268
+9,6,9699,Light Blue,One Size,288,1,288
+9,6,9699,Dark Blue,One Size,288,1,288
+9,6,799,Dark Blue,M,288,1,288
+9,6,799,Dark Blue,L,288,1,288
+9,6,799,Dark Blue,XL,288,1,288
+9,6,239,Black,Unknown,278,1,278
+9,0,9699,Dark Blue,One Size,288,1,288
+9,0,799,Dark Blue,M,288,1,288
+9,1,799,Dark Blue,L,288,1,288
+9,1,708,Dark Blue,2XL,298,1,298
+9,1,708,Dark Blue,3XL,298,1,298
+9,1,799,Dark Blue,XL,288,1,288
+9,2,799,Dark Blue,L,288,1,288
+9,2,799,Dark Blue,L,288,1,288
+9,2,799,Dark Blue,L,288,1,288
+9,3,799,Dark Blue,M,288,1,288
+9,3,708,Dark Blue,3XL,298,1,298
+9,3,799,Dark Blue,XL,288,1,288
+9,3,799,Dark Blue,L,288,1,288
+9,3,799,Dark Blue,L,288,1,288
+9,3,799,Dark Blue,M,288,1,288
+9,4,799,Dark Blue,M,265,1,265
+9,4,8499,Light Blue,L,238,1,238
+9,4,799,Dark Blue,M,265,1,265
+9,4,799,Dark Blue,L,265,1,265
+9,4,539,Black,One Size,268,1,268
+9,4,708,Dark Blue,3XL,278,1,278
+9,4,708,Dark Blue,4XL,278,1,278
+9,4,799,Dark Blue,XL,265,1,265
+9,4,799,Dark Blue,M,265,1,265
+9,4,799,Dark Blue,L,265,1,265
+9,4,708,Dark Blue,2XL,278,1,278
+9,4,799,Dark Blue,XL,265,1,265
+9,4,bobo,White,One Size,228,1,228
+9,4,708,Dark Blue,3XL,278,1,278
+9,4,799,Dark Blue,XL,265,1,265
+9,4,799,Dark Blue,M,265,1,265
+9,4,799,Dark Blue,M,265,1,265
+9,4,799,Dark Blue,M,265,1,265
+9,4,708,Dark Blue,4XL,278,1,278
+9,4,799,Dark Blue,M,265,1,265
+9,4,799,Dark Blue,L,265,1,265
+9,4,799,Dark Blue,XL,265,1,265
