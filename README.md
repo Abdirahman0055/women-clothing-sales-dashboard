@@ -36,9 +36,11 @@ Python was used for data cleaning, preprocessing, and analysis, while Power BI w
 ---
 
 ## Dashboard Preview
-(See the screenshot file in this repository)
+![Dashboard Screenshot](dashboard_screenshot.png)
+
 
 ---
 
 ## Author
 Abdirahman Osman
+
